@@ -1,7 +1,7 @@
-# platzi-exchange
+# Felipe-Exchange
 
 ## Demo
-You can find the live demo [here](https://exchange-delaluzeri.netlify.app/).
+You can find the live demo in the next link (https://felipe-exchange.netlify.app/).
 
 ## Project setup
 ```
